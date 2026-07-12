@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iman Arbab</h1>
+<h1 align="center">Hi 👋 I'm Iman Arbab</h1>
 <h3 align="center">Computer Science Student | Data Science Enthusiast | Linux & Networking Explorer</h3>
 
 <p align="center">
@@ -30,8 +30,8 @@ Languages
 Networking & Systems
 
 - Linux (Ubuntu)
-- Network+
 - A+
+- Network+
 - Security+
 
 ---
