@@ -38,9 +38,8 @@ Networking & Systems
 
 ## 🌱 Currently Learning
 
-- Advanced Python
-- Linux
-- Pandas
+- Pandas & Numpy
+- SQL
 
 ---
 
